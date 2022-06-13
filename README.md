@@ -1,0 +1,2 @@
+# wpgit
+nyoba push wordpress
